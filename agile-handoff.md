@@ -57,11 +57,11 @@ When I come back later, I immediately know what still needs work.
 
 📖 Supporting Resources
 
-1. [Agile Alliance on Handoffs](https://www.agilealliance.org/glossary/handoff/)  
+1. [The Handoff Handbook](https://www.aldersonloop.com/blog/the-handoff-handbook-seamless-transitions-through-documentation)  
    Explains the concept of handoffs in Agile and why minimizing context loss is important.  
 
-2. [Atlassian on Git Commit Best Practices](https://www.atlassian.com/git/tutorials/git-commit)  
+2. [Git Commit Best Practices](https://dev.to/wallacefreitas/best-practices-to-make-a-good-commit-writing-clean-effective-commit-messages-5eg9)  
    Shows how writing clear commit messages helps both teams and individuals stay on track.  
 
-3. [ThoughtWorks: You Are Your Own Coworker](https://www.thoughtworks.com/en-us/insights/blog/you-are-your-own-coworker)  
+3. [The Power of Documentation in the Workplace](https://eatyourcareer.com/2024/04/the-power-of-documentation-in-the-workplace/)  
    A great reminder that documenting work for yourself is just as valuable as documenting for others.
