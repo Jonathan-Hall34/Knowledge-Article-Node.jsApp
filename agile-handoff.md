@@ -20,7 +20,7 @@ Most of this was fine, but MongoDB gave me the biggest headache. When I created 
 
 At first, I thought I broke something in my code, but the real problem was that my home IP wasn’t whitelisted. I ended up finding my personal IP address and then added it manually into MongoDB Atlas. After doing that, my database connection finally worked correctly.
 
-Looking back, I realized I could’ve saved myself a lot of time if I had left a note telling my future self this. We were told how to do this in class, but by the time I made it home I had already forgot. This is where the idea of Agile handoffs would've really come in handy. Even when I’m not “handing off” to a teammate, I’m constantly handing off my work to my future self.
+Looking back, I realized I could’ve saved myself a lot of time if I had left a note telling my future self this. We were told how to set up the other IP in class, but by the time I made it home I had already forgot. This is where the idea of Agile handoffs would've really come in handy. Even when I’m not handing off to a teammate, I’m constantly handing off my work to my future self.
 
 ---
 
