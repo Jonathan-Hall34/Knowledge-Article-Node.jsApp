@@ -16,11 +16,11 @@ Since I was working on my personal laptop instead of a computer at school, I had
 
 - Setting up MongoDB Atlas for my database
 
-Most of this was fine, but MongoDB gave me the biggest headache. When I created my account at school, I was on the campus Wi-Fi. Atlas saved that network’s IP address as the default. Later, when I tried to launch the project at home, MongoDB just refused to connect.
+Most of this was fine, but MongoDB caused the most problems for me. When I created my MongoDB account at school, I was on the campus Wi-Fi. Atlas then saved that network’s IP address as the default. Later, when I tried to launch the project at home, MongoDB just refused to connect.
 
-At first, I thought I broke something in my code, but the real problem was that my home IP wasn’t whitelisted. I ended up finding my personal IP address and then added it manually into MongoDB Atlas. After doing that, my database connection finally worked correctly.
+At first, I thought I had done something wrong regarding my code, but the real problem was that my home IP wasn’t whitelisted. I ended up finding my personal IP address and then added it manually into MongoDB Atlas. After doing that, my database connection finally worked correctly.
 
-Looking back, I realized I could’ve saved myself a lot of time if I had left a note telling my future self this. We were told how to set up the other IP in class, but by the time I made it home I had already forgot. This is where the idea of Agile handoffs would've really come in handy. Even when I’m not handing off to a teammate, I’m constantly handing off my work to my future self.
+Looking back on it, I realized I could’ve saved myself a lot of time if I had left a comment telling my future self this. We were told how to set up the other IP in class, but by the time I made it home I had already forgot. This is where the idea of Agile handoffs would've really come in handy. Even when I’m not handing off to a teammate, I’m constantly handing off my work to my future self while working individually.
 
 ---
 
@@ -37,15 +37,15 @@ Why self-handoffs matter:
 
 - Debugging is slower. Without notes, you waste time trying to remember your last steps.
 
-- Momentum is key. Clear notes and commits let you pick up right where you left off.
+- Momentum is key. Clear notes and commit messages let you pick up right where you left off.
 
-I’ve learned that “future me” is basically another teammate, one who doesn’t always remember what “past me” was thinking.
+I’ve learned that “future me” is essentially another teammate, one who doesn’t always remember what “past me” was thinking.
 
 ---
 
 🔧 How I Started Doing Better Handoffs
 
-After a couple of frustrating sessions, one habit that made coding smoother for me was:
+After a couple of confusing sessions, one habit that made coding smoother for me was:
 
 - Leaving TODO Comments
 
